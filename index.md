@@ -1,4 +1,4 @@
-## Work Samples
+## Work Samples by Priyanka Marwah
 
 ### Dashboard/Landing Page
 <img src="DashboardPage.png" alt="Filter Page" />

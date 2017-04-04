@@ -9,5 +9,5 @@
 ### Company Page
 <img src="Company%20Page.png" alt="Filter Page" />
 
-### Company Page
+### Financial Page
 <img src="Financial%20Page.png" alt="Filter Page" />
